@@ -47,6 +47,7 @@ namespace ConsoleApplication9
             Console.WriteLine();
             Console.WriteLine("ORDER SUMMARY:");
             Console.WriteLine(order);
-            Console.ReadLine();       }
+            Console.ReadLine();       
+        }
     }
 }
